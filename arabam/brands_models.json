@@ -1,0 +1,964 @@
+{
+  "Acura": {
+    "cat": "arazi-suv-pickup",
+    "models": [
+      "MDX"
+    ]
+  },
+  "Alfa Romeo": {
+    "cat": "arazi-suv-pickup",
+    "models": [
+      "Junior Elettrica",
+      "Junior Ibrida",
+      "Junior Speciale",
+      "Stelvio",
+      "Tonale"
+    ]
+  },
+  "Alpine": {
+    "cat": "otomobil",
+    "models": [
+      "A290"
+    ]
+  },
+  "Anadol": {
+    "cat": "otomobil",
+    "models": [
+      "A"
+    ]
+  },
+  "Arora": {
+    "cat": "otomobil",
+    "models": [
+      "S1"
+    ]
+  },
+  "Askam": {
+    "cat": "minivan-panelvan",
+    "models": [
+      "Fargo Fora"
+    ]
+  },
+  "Aston Martin": {
+    "cat": "otomobil",
+    "models": [
+      "Cygnet",
+      "DB11",
+      "DB12",
+      "DB7",
+      "DB9",
+      "DBS",
+      "Rapide",
+      "Vanquish",
+      "Vantage"
+    ]
+  },
+  "Audi": {
+    "cat": "arazi-suv-pickup",
+    "models": [
+      "Audi Q2 35 TFSI",
+      "Audi Q3 1.4 TFSi",
+      "Audi Q3 35 TFSI",
+      "Audi Q5 2.0 TDI Quattro",
+      "Audi Q7 3.0 TDI Quattro",
+      "E-Tron",
+      "Q",
+      "Q8 E-Tron",
+      "Q8 Sportback E-Tron",
+      "RS Q"
+    ]
+  },
+  "BMC": {
+    "cat": "minivan-panelvan",
+    "models": [
+      "Megastar"
+    ]
+  },
+  "BMW": {
+    "cat": "arazi-suv-pickup",
+    "models": [
+      "BMW X1 16d sDrive",
+      "BMW X1 16i sDrive",
+      "BMW X1 18i sDrive",
+      "BMW X1 20i sDrive",
+      "BMW X3 20d xDrive",
+      "BMW X3 20i sDrive",
+      "BMW X5 25d xDrive",
+      "X",
+      "iX"
+    ]
+  },
+  "BYD": {
+    "cat": "arazi-suv-pickup",
+    "models": [
+      "Atto",
+      "Atto 3 EV",
+      "BYD Seal U DM-i 1.5 Phev",
+      "Seal U",
+      "Seal U DM-i",
+      "Seal U EV",
+      "Sealion",
+      "Tang"
+    ]
+  },
+  "Bentley": {
+    "cat": "arazi-suv-pickup",
+    "models": [
+      "Bentayga"
+    ]
+  },
+  "Buick": {
+    "cat": "otomobil",
+    "models": [
+      "Le Sabre",
+      "Park Avenue",
+      "Regal",
+      "Riviera",
+      "Roadmaster"
+    ]
+  },
+  "Cadillac": {
+    "cat": "arazi-suv-pickup",
+    "models": [
+      "Escalade",
+      "SRX"
+    ]
+  },
+  "Chery": {
+    "cat": "minivan-panelvan",
+    "models": [
+      "Taxim"
+    ]
+  },
+  "Chevrolet": {
+    "cat": "minivan-panelvan",
+    "models": [
+      "Express Van"
+    ]
+  },
+  "Chrysler": {
+    "cat": "minivan-panelvan",
+    "models": [
+      "Grand Voyager",
+      "Town & Country",
+      "Voyager"
+    ]
+  },
+  "Citroen": {
+    "cat": "minivan-panelvan",
+    "models": [
+      "Berlingo",
+      "C",
+      "Jumper",
+      "Jumpy",
+      "Nemo"
+    ]
+  },
+  "Cupra": {
+    "cat": "arazi-suv-pickup",
+    "models": [
+      "Formentor",
+      "Terramar"
+    ]
+  },
+  "DFM": {
+    "cat": "minivan-panelvan",
+    "models": [
+      "Panelvan",
+      "Succe"
+    ]
+  },
+  "DFSK": {
+    "cat": "arazi-suv-pickup",
+    "models": [
+      "E",
+      "Fengon"
+    ]
+  },
+  "DS Automobiles": {
+    "cat": "arazi-suv-pickup",
+    "models": [
+      "DS Automobiles DS7 Crossback 1.5 BlueHDI",
+      "DS3 Crossback",
+      "DS7 Crossback"
+    ]
+  },
+  "Dacia": {
+    "cat": "minivan-panelvan",
+    "models": [
+      "Dokker",
+      "Logan"
+    ]
+  },
+  "Daewoo": {
+    "cat": "arazi-suv-pickup",
+    "models": [
+      "Musso"
+    ]
+  },
+  "Daihatsu": {
+    "cat": "minivan-panelvan",
+    "models": [
+      "Hijet"
+    ]
+  },
+  "Dodge": {
+    "cat": "minivan-panelvan",
+    "models": [
+      "Grand Caravan"
+    ]
+  },
+  "Eagle": {
+    "cat": "otomobil",
+    "models": [
+      "Talon"
+    ]
+  },
+  "Ferrari": {
+    "cat": "otomobil",
+    "models": [
+      "12Cilindri",
+      "296",
+      "360",
+      "430",
+      "458",
+      "599",
+      "California",
+      "F12",
+      "F8"
+    ]
+  },
+  "Fiat": {
+    "cat": "minivan-panelvan",
+    "models": [
+      "Doblo",
+      "Ducato",
+      "Fiorino",
+      "Palio Van",
+      "Panda Van",
+      "Scudo",
+      "Ulysse"
+    ]
+  },
+  "Ford": {
+    "cat": "minivan-panelvan",
+    "models": [
+      "E Serisi",
+      "E-Transit",
+      "Fiesta Van",
+      "Tourneo Connect",
+      "Tourneo Courier",
+      "Tourneo Custom",
+      "Transit",
+      "Transit Connect",
+      "Transit Courier",
+      "Transit Custom",
+      "Transit Kombi"
+    ]
+  },
+  "Foton": {
+    "cat": "arazi-suv-pickup",
+    "models": [
+      "Tunland G"
+    ]
+  },
+  "GAZ": {
+    "cat": "minivan-panelvan",
+    "models": [
+      "Gazelle",
+      "Next"
+    ]
+  },
+  "GMC": {
+    "cat": "arazi-suv-pickup",
+    "models": [
+      "Sierra"
+    ]
+  },
+  "Geely": {
+    "cat": "otomobil",
+    "models": [
+      "Echo",
+      "Emgrand",
+      "FC",
+      "Familia"
+    ]
+  },
+  "Honda": {
+    "cat": "arazi-suv-pickup",
+    "models": [
+      "CR-V",
+      "HR-V",
+      "Honda CR-V 1.6 i-DTEC",
+      "Honda HR-V 1.5 e-HEV",
+      "ZR-V"
+    ]
+  },
+  "Hummer": {
+    "cat": "arazi-suv-pickup",
+    "models": [
+      "H Serisi"
+    ]
+  },
+  "Hyundai": {
+    "cat": "minivan-panelvan",
+    "models": [
+      "H",
+      "Starex",
+      "Staria"
+    ]
+  },
+  "Ikco": {
+    "cat": "otomobil",
+    "models": [
+      "Samand"
+    ]
+  },
+  "Infiniti": {
+    "cat": "arazi-suv-pickup",
+    "models": [
+      "FX",
+      "QX"
+    ]
+  },
+  "Isuzu": {
+    "cat": "arazi-suv-pickup",
+    "models": [
+      "D-Max",
+      "Isuzu D-Max",
+      "Isuzu D-Max 1.9 D",
+      "Trooper"
+    ]
+  },
+  "Jaecoo": {
+    "cat": "arazi-suv-pickup",
+    "models": [
+      "Jaecoo J7"
+    ]
+  },
+  "Jaguar": {
+    "cat": "arazi-suv-pickup",
+    "models": [
+      "E-Pace",
+      "F-Pace",
+      "I-Pace"
+    ]
+  },
+  "Jeep": {
+    "cat": "arazi-suv-pickup",
+    "models": [
+      "Avenger Electric",
+      "Avenger Hybrid",
+      "CJ",
+      "Cherokee",
+      "Commander",
+      "Compass",
+      "Grand Cherokee",
+      "Jeep Grand Cherokee 3.0 CRD",
+      "Jeep Renegade 1.6 MultiJet",
+      "Liberty",
+      "Patriot",
+      "Renegade",
+      "Wrangler"
+    ]
+  },
+  "Kia": {
+    "cat": "minivan-panelvan",
+    "models": [
+      "Besta",
+      "Pregio"
+    ]
+  },
+  "Kuba": {
+    "cat": "otomobil",
+    "models": [
+      "M5"
+    ]
+  },
+  "Lada": {
+    "cat": "arazi-suv-pickup",
+    "models": [
+      "Niva"
+    ]
+  },
+  "Lamborghini": {
+    "cat": "arazi-suv-pickup",
+    "models": [
+      "Urus"
+    ]
+  },
+  "Lancia": {
+    "cat": "minivan-panelvan",
+    "models": [
+      "Voyager"
+    ]
+  },
+  "Land Rover": {
+    "cat": "arazi-suv-pickup",
+    "models": [
+      "Defender",
+      "Discovery",
+      "Discovery Sport",
+      "Freelander",
+      "Land Rover Freelander 2.0 TD",
+      "Land Rover Freelander 2.2 TD",
+      "Land Rover Range Rover 3.0 TDV",
+      "Land Rover Range Rover Evoque 2.0 Si",
+      "Land Rover Range Rover Sport 3.0 SDV",
+      "Land Rover Range Rover Sport 3.0 TDV",
+      "Land Rover Range Rover Velar 2.0 TD",
+      "Range Rover",
+      "Range Rover Evoque",
+      "Range Rover Sport",
+      "Range Rover Velar"
+    ]
+  },
+  "Leapmotor": {
+    "cat": "otomobil",
+    "models": [
+      "T03"
+    ]
+  },
+  "Lexus": {
+    "cat": "arazi-suv-pickup",
+    "models": [
+      "LBX",
+      "LX",
+      "RX",
+      "RZ"
+    ]
+  },
+  "Lincoln": {
+    "cat": "arazi-suv-pickup",
+    "models": [
+      "Aviator",
+      "Navigator"
+    ]
+  },
+  "Lotus": {
+    "cat": "otomobil",
+    "models": [
+      "Esprit"
+    ]
+  },
+  "Luqi": {
+    "cat": "otomobil",
+    "models": [
+      "EV300"
+    ]
+  },
+  "MAN": {
+    "cat": "minivan-panelvan",
+    "models": [
+      "TGE"
+    ]
+  },
+  "MG": {
+    "cat": "arazi-suv-pickup",
+    "models": [
+      "EHS",
+      "HS",
+      "MG HS 1.5 T-GDI",
+      "MG ZS 1.0 T-GDI",
+      "Marvel R",
+      "ZS",
+      "ZS EV"
+    ]
+  },
+  "Mahindra": {
+    "cat": "arazi-suv-pickup",
+    "models": [
+      "Goa",
+      "Pick-Up"
+    ]
+  },
+  "Marcos": {
+    "cat": "otomobil",
+    "models": [
+      "Mantis"
+    ]
+  },
+  "Maserati": {
+    "cat": "arazi-suv-pickup",
+    "models": [
+      "Grecale",
+      "Levante"
+    ]
+  },
+  "Maxus": {
+    "cat": "minivan-panelvan",
+    "models": [
+      "e-Deliver"
+    ]
+  },
+  "Mazda": {
+    "cat": "minivan-panelvan",
+    "models": [
+      "E"
+    ]
+  },
+  "Mercedes": {
+    "cat": "otomobil",
+    "models": [
+      "190",
+      "200",
+      "230",
+      "240",
+      "250",
+      "260",
+      "280",
+      "300",
+      "420",
+      "500",
+      "560",
+      "A Serisi",
+      "AMG GT",
+      "B Serisi",
+      "C Serisi",
+      "CL",
+      "CLA",
+      "CLC",
+      "CLE",
+      "CLK",
+      "CLS",
+      "Citan",
+      "E Serisi",
+      "EQA",
+      "EQB",
+      "EQC",
+      "EQE",
+      "EQS",
+      "G",
+      "GL",
+      "GLA",
+      "GLB",
+      "GLC",
+      "GLC Coupe",
+      "GLE",
+      "GLE Coupe",
+      "GLK",
+      "GLS",
+      "ML",
+      "Maybach S",
+      "Mercedes - Benz GLA 200 AMG",
+      "R Serisi",
+      "S Serisi",
+      "SL",
+      "SLK",
+      "Sprinter",
+      "V Serisi",
+      "Vaneo",
+      "Viano",
+      "Vito",
+      "X"
+    ]
+  },
+  "Mini": {
+    "cat": "arazi-suv-pickup",
+    "models": [
+      "Cooper Countryman",
+      "Countryman",
+      "Countryman E",
+      "Paceman",
+      "Cooper Clubman",
+      "Cooper Countryman C",
+      "Cooper Countryman E",
+      "Cooper Countryman S",
+      "Cooper Countryman Se",
+      "Countryman C",
+      "Countryman Cooper Se",
+      "Jcw Clubman",
+      "Jcw Countryman",
+      "Jcwcountryman",
+      "Minicooopercountryman",
+      "Minicoopercountrymanall4",
+      "One D Clubman",
+      "One D Countryman"
+    ]
+  },
+  "Mitsubishi": {
+    "cat": "minivan-panelvan",
+    "models": [
+      "L"
+    ]
+  },
+  "Nissan": {
+    "cat": "minivan-panelvan",
+    "models": [
+      "Townstar",
+      "Vanette"
+    ]
+  },
+  "Opel": {
+    "cat": "minivan-panelvan",
+    "models": [
+      "Astra Van",
+      "Combo",
+      "Combo Life",
+      "Corsa Van",
+      "Movano",
+      "Vivaro",
+      "Zafira Life",
+      "Zafira-e"
+    ]
+  },
+  "Peugeot": {
+    "cat": "minivan-panelvan",
+    "models": [
+      "206 Van",
+      "Bipper",
+      "Boxer",
+      "Expert",
+      "Expert Traveller",
+      "Partner",
+      "Rifter"
+    ]
+  },
+  "Piaggio": {
+    "cat": "minivan-panelvan",
+    "models": [
+      "Porter"
+    ]
+  },
+  "Porsche": {
+    "cat": "arazi-suv-pickup",
+    "models": [
+      "Cayenne",
+      "Macan",
+      "Porsche Cayenne Diesel",
+      "Porsche Macan",
+      "Cayenne Black Edition",
+      "Cayenne Coupe",
+      "Cayenne Coupe Black Edition",
+      "Cayenne Coupe E-Hybrid",
+      "Cayenne Coupe E-Hybrid Black Edition",
+      "Cayenne Coupe E-Hybrid Platinum Edt",
+      "Cayenne Coupe Electric",
+      "Cayenne Coupe Fl",
+      "Cayenne Coupe Gts",
+      "Cayenne Coupe Gts Fl",
+      "Cayenne Coupe Platinum Edition",
+      "Cayenne Coupe S",
+      "Cayenne Coupe S Electric",
+      "Cayenne Coupe S Platinum Edition",
+      "Cayenne Coupe Turbo",
+      "Cayenne Coupe Turbo E-Hybrid Fl",
+      "Cayenne Coupe Turbo Electric",
+      "Cayenne Coupe Turbo S E-Hybrid",
+      "Cayenne Diesel Platinum Edition",
+      "Cayenne E-Hybrid",
+      "Cayenne E-Hybrid Black Edition",
+      "Cayenne E-Hybrid Coupe Fl",
+      "Cayenne E-Hybrid Fl",
+      "Cayenne E-Hybrid Platinum Edition",
+      "Cayenne Electric",
+      "Cayenne Fl",
+      "Cayenne Gts",
+      "Cayenne Gts Fl",
+      "Cayenne Paltinum Edition",
+      "Cayenne S",
+      "Cayenne S E-Hybrid",
+      "Cayenne S E-Hybrid Coupe Black Edt",
+      "Cayenne S Electric",
+      "Cayenne S Fl",
+      "Cayenne S Platinum Edition",
+      "Cayenne Turbo",
+      "Cayenne Turbo E-Hybrid",
+      "Cayenne Turbo E-Hybrid Gt",
+      "Cayenne Turbo Electric",
+      "Cayenne Turbo S E-Hybrid",
+      "Macan Gts",
+      "Macan S",
+      "Macan S Dizel",
+      "Macan T",
+      "Macan Turbo",
+      "Taycan",
+      "Taycan Black Edition",
+      "Taycan Fl",
+      "Taycan Gts",
+      "Taycan Gts Sport Turismo",
+      "Taycan Sport Tourismo",
+      "Taycan Sport Turismo",
+      "Taycan Sport Turismo Fl",
+      "Taycan Turbo",
+      "Taycan Turbo Cross Turismo",
+      "Taycan Turbo Cross Turismo Fl",
+      "Taycan Turbo Fl",
+      "Taycan Turbo Gt",
+      "Taycan Turbo Gt Weissach",
+      "Taycan Turbo S",
+      "Taycan Turbo S Cross Turismo",
+      "Taycan Turbo S Cross Turismo Fl",
+      "Taycan Turbo S Fl",
+      "Taycan Turbo S Sport Turismo Fl",
+      "Taycan Turbo Sport Turismo Fl"
+    ]
+  },
+  "RKS": {
+    "cat": "otomobil",
+    "models": [
+      "A1",
+      "M5"
+    ]
+  },
+  "Reeder": {
+    "cat": "otomobil",
+    "models": [
+      "Reev Fancy"
+    ]
+  },
+  "Regal Raptor": {
+    "cat": "otomobil",
+    "models": [
+      "K4",
+      "K5",
+      "K5 Long",
+      "K5 Pro"
+    ]
+  },
+  "Relive": {
+    "cat": "otomobil",
+    "models": [
+      "Baw1"
+    ]
+  },
+  "Renault": {
+    "cat": "minivan-panelvan",
+    "models": [
+      "Express",
+      "Express Combi",
+      "Express Van",
+      "Kangoo",
+      "Kangoo E-tech",
+      "Kangoo Express",
+      "Kangoo Multix",
+      "Master",
+      "Trafic",
+      "Trafic Multix"
+    ]
+  },
+  "Rolls-Royce": {
+    "cat": "otomobil",
+    "models": [
+      "Ghost",
+      "Phantom",
+      "Spectre",
+      "Wraith"
+    ]
+  },
+  "Rover": {
+    "cat": "otomobil",
+    "models": [
+      "200",
+      "214",
+      "216",
+      "220",
+      "25",
+      "414",
+      "416",
+      "420",
+      "45",
+      "620",
+      "75",
+      "820"
+    ]
+  },
+  "SWM": {
+    "cat": "arazi-suv-pickup",
+    "models": [
+      "G",
+      "G01 Pro",
+      "G01F",
+      "G01F Premium DCT",
+      "G03F"
+    ]
+  },
+  "Saab": {
+    "cat": "otomobil",
+    "models": [
+      "9-3",
+      "9-5",
+      "900",
+      "9000"
+    ]
+  },
+  "Saipa": {
+    "cat": "otomobil",
+    "models": [
+      "Saba"
+    ]
+  },
+  "Seat": {
+    "cat": "minivan-panelvan",
+    "models": [
+      "Inca",
+      "Terra"
+    ]
+  },
+  "Skoda": {
+    "cat": "minivan-panelvan",
+    "models": [
+      "Fabia Praktik",
+      "Forman Praktik"
+    ]
+  },
+  "Skywell": {
+    "cat": "arazi-suv-pickup",
+    "models": [
+      "ET"
+    ]
+  },
+  "Smart": {
+    "cat": "otomobil",
+    "models": [
+      "Forfour",
+      "Fortwo",
+      "Roadster"
+    ]
+  },
+  "Ssangyong": {
+    "cat": "arazi-suv-pickup",
+    "models": [
+      "Actyon",
+      "Actyon Sports",
+      "Korando",
+      "Korando Sports",
+      "Kyron",
+      "Musso",
+      "Musso Grand",
+      "Rexton",
+      "Rodius",
+      "Ssangyong Musso Grand 2.2 D",
+      "Tivoli",
+      "Torres",
+      "XLV"
+    ]
+  },
+  "Subaru": {
+    "cat": "arazi-suv-pickup",
+    "models": [
+      "Crosstrek",
+      "Forester",
+      "Outback",
+      "Solterra",
+      "Subaru XV",
+      "XV"
+    ]
+  },
+  "Suzuki": {
+    "cat": "minivan-panelvan",
+    "models": [
+      "Carry"
+    ]
+  },
+  "TOGG": {
+    "cat": "arazi-suv-pickup",
+    "models": [
+      "T10F",
+      "T10X",
+      "TOGG T10X V"
+    ]
+  },
+  "Tata": {
+    "cat": "arazi-suv-pickup",
+    "models": [
+      "Safari",
+      "Telcoline",
+      "Xenon"
+    ]
+  },
+  "Temsa": {
+    "cat": "minivan-panelvan",
+    "models": [
+      "Maxus"
+    ]
+  },
+  "Tenax": {
+    "cat": "minivan-panelvan",
+    "models": [
+      "V"
+    ]
+  },
+  "Tesla": {
+    "cat": "otomobil",
+    "models": [
+      "Model 3",
+      "Model S",
+      "Model X",
+      "Model Y"
+    ]
+  },
+  "The London Taxi": {
+    "cat": "otomobil",
+    "models": [
+      "TX4"
+    ]
+  },
+  "Tofaş": {
+    "cat": "otomobil",
+    "models": [
+      "Doğan",
+      "Kartal",
+      "Murat",
+      "Serçe",
+      "Şahin"
+    ]
+  },
+  "Toyota": {
+    "cat": "minivan-panelvan",
+    "models": [
+      "Hi-Ace",
+      "Proace City",
+      "Proace City Cargo",
+      "Proace Max"
+    ]
+  },
+  "Volkswagen": {
+    "cat": "minivan-panelvan",
+    "models": [
+      "Caddy",
+      "Caravelle",
+      "Crafter",
+      "ID. Buzz",
+      "LT",
+      "MultiVan",
+      "Transporter"
+    ]
+  },
+  "Volta": {
+    "cat": "otomobil",
+    "models": [
+      "EV1",
+      "EV2"
+    ]
+  },
+  "Volvo": {
+    "cat": "arazi-suv-pickup",
+    "models": [
+      "C",
+      "EX",
+      "Volvo XC60 2.0 D",
+      "Volvo XC90 2.0 B",
+      "XC"
+    ]
+  },
+  "Voyah": {
+    "cat": "arazi-suv-pickup",
+    "models": [
+      "Free"
+    ]
+  },
+  "Yuki": {
+    "cat": "otomobil",
+    "models": [
+      "Amy",
+      "Hector Pro"
+    ]
+  },
+  "ZAZ": {
+    "cat": "otomobil",
+    "models": [
+      "Chance"
+    ]
+  }
+}
