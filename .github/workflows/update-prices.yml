@@ -1,0 +1,59 @@
+name: Yakıt Fiyatları Güncelle
+
+on:
+  schedule:
+    - cron: '0 9 * * 4'   # Her Perşembe 09:00 UTC = 12:00 TR (EPDK sonrası)
+  workflow_dispatch:        # Elle de tetiklenebilsin
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout arachesap-data
+        uses: actions/checkout@v4
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Fiyatları çek
+        run: python update_prices.py
+
+      - name: Bu repoya commit et
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/prices.json
+          if git diff --cached --quiet; then
+            echo "Fiyat değişmedi, commit atlanıyor."
+            echo "CHANGED=false" >> $GITHUB_ENV
+          else
+            git commit -m "data: yakıt fiyatları güncellendi $(date +%Y-%m-%d)"
+            git push
+            echo "CHANGED=true" >> $GITHUB_ENV
+          fi
+
+      - name: arachesap repo'sunu klonla
+        if: env.CHANGED == 'true'
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_PAT }}@github.com/angunsidar/arachesap.git /tmp/arachesap
+
+      - name: prices.json'u arachesap'a kopyala ve push et
+        if: env.CHANGED == 'true'
+        run: |
+          cp data/prices.json /tmp/arachesap/data/prices.json
+          cd /tmp/arachesap
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/prices.json
+          git commit -m "data: yakıt fiyatları güncellendi $(date +%Y-%m-%d)"
+          git push
+
+      - name: Firebase deploy
+        if: env.CHANGED == 'true'
+        run: |
+          npm install -g firebase-tools
+          cd /tmp/arachesap
+          firebase deploy --only hosting --token ${{ secrets.FIREBASE_TOKEN }} --non-interactive
