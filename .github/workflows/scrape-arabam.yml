@@ -1,8 +1,7 @@
 name: Arabam.com Günlük Batch
 
 on:
-  schedule:
-    - cron: '0 6 * * *'   # Her gün 06:00 UTC = 09:00 TR
+  # arabam.com datacenter IP'lerini blokluyor — lokalde çalıştır, sync_to_arachesap.bat kullan
   workflow_dispatch:
     inputs:
       group:
