@@ -1,10 +1,10 @@
 {
-  "benzin": 64.63,
-  "dizel": 68.17,
-  "lpg": 28.76,
+  "benzin": 64.88,
+  "dizel": 66.29,
+  "lpg": 28.87,
   "elektrik_ev": 3.92,
   "elektrik_ac": 9.9,
   "elektrik_dc": 13.5,
-  "guncelleme": "2026-06-11",
-  "kaynak": "aytemiz.com.tr (ulusal medyan)"
+  "guncelleme": "2026-06-18",
+  "kaynak": "petrolofisi.com.tr (ulusal medyan)"
 }
