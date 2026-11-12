@@ -1,10 +1,10 @@
 {
-  "benzin": 82.3,
-  "dizel": 102.4,
-  "lpg": 36.62,
+  "benzin": 73.0,
+  "dizel": 97.2,
+  "lpg": 32.48,
   "elektrik_ev": 3.92,
   "elektrik_ac": 9.9,
   "elektrik_dc": 13.5,
-  "guncelleme": "2026-11-05",
+  "guncelleme": "2026-11-12",
   "kaynak": "petrolofisi.com.tr (ulusal medyan)"
 }
